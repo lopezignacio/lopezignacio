@@ -22,7 +22,6 @@ Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
 ### 🧩 Librerías & Frameworks 
 
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -32,6 +31,13 @@ Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 Trabajando en...
+### 📟 Electrónica ...
+
+ASEMBLER
+PiC
+![Arduino](http://www.w3.org/2000/svg)
+ARM
+
+### 📈 Trabajando en...
 
 Personalizaciones de Odoo ERP con python.
