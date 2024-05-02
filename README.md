@@ -2,10 +2,9 @@
 
 **Desarrollador y emprendedor informático y tecnologico** 💻 
 
-Especialmente interesado en el desarrollo de software y actualmente personalisando Odoo ERP en python para el sector financiero. Me encanta vincular la electronico y la informatica y el Desarrollo de Aplicaciones Multiplataforma.
+Especialmente interesado en el desarrollo de software y actualmente personalizando Odoo ERP en python para el sector financiero. Me encanta vincular la electrónico y la informática y el Desarrollo de Aplicaciones Multiplataforma.
 
-Estoy abierto a propuestas dasafiantes y creativas. Si dudas, contactame.
-
+Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
 
 ## Contacto
 
