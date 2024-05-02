@@ -25,7 +25,7 @@ Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
 
 ### 🧩 Librerías & Frameworks 
 
-![Odoo](https://img.shields.io/badge/Angular-DD0021?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo](https://img.shields.io/badge/ODOO-00599C?style=for-the-badge&logo=odoo&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
