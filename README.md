@@ -4,7 +4,9 @@
 
 Especialmente interesado en el desarrollo de software y actualmente personalizando Odoo ERP en python para el sector financiero. Me encanta vincular la electrónico y la informática y el Desarrollo de Aplicaciones Multiplataforma.
 
-Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
+Fui técnico informatico asistiendo y reparando PCs. A la vez, hice muchos desarrollos en distintos lenguajes y tecnologias. Varios deploys complejos y algunos aún funcionando hoy despues de 10 años. Trabaje con algunos equipos de desarrollo con muy buenos resultados. 
+
+Busco desafios y estoy abierto a propuestas. Me gusta aprender cosas nuevas y hacer cosas creativas.
 
 ## Contacto
 
