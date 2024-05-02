@@ -21,11 +21,13 @@ Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🧩 Librerías & Frameworks 
 
-![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Odoo](https://img.shields.io/badge/Angular-DD0021?style=for-the-badge&logo=odoo&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ### 📘 Otras...
 
@@ -33,10 +35,10 @@ Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
 
 ### 📟 Electrónica ...
 
-ASEMBLER
-PiC
-![Arduino](http://www.w3.org/2000/svg)
-ARM
+![ASEMBLER](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=asembler&logoColor=white)
+![PiC](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=pic&logoColor=white)
+![Arduino](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=arduino&logoColor=white)
+![ARM](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=ARM&logoColor=white)
 
 ### 📈 Trabajando en...
 
