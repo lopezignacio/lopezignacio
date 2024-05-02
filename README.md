@@ -35,11 +35,11 @@ Estoy abierto a propuestas desafiantes y creativas. Si dudas, contactame.
 
 ### 📟 Electrónica ...
 
-![ASEMBLER](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=asembler&logoColor=white)
-![PiC](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=pic&logoColor=white)
-![Arduino](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=arduino&logoColor=white)
-![ARM](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=ARM&logoColor=white)
+![ASEMBLER](https://img.shields.io/badge/ASEMBLER-512BD4?style=for-the-badge&logo=asembler&logoColor=white)
+![PiC](https://img.shields.io/badge/PiC-512BD4?style=for-the-badge&logo=pic&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-512BD4?style=for-the-badge&logo=arduino&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-512BD4?style=for-the-badge&logo=ARM&logoColor=white)
 
 ### 📈 Trabajando en...
 
-Personalizaciones de Odoo ERP con python.
+Personalizaciones de Odoo ERP con python para broker financiero.
